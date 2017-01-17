@@ -7,3 +7,9 @@
 |Expected Costs|  |
 |Point of Contact| |
 |Notes |Please include *mm/dd*, *city*, and *event title* in issue title | 
+
+### Agenda:
+
+
+
+cc @lwtpatty
